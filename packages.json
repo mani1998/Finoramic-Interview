@@ -1,0 +1,10 @@
+    {
+    "dependencies":[
+    "boto==2.48.0","not_exist==1.0.0","reportlab==3.3.0"
+    ],
+    "dependencies-obj":{
+        "boto":"2.48.0",
+        "notexist":"1.0.0",
+        "reportlab":"3.3.0"
+    }
+    }
