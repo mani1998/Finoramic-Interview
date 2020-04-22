@@ -5,9 +5,9 @@
 <p>All the required packages which are specified in package.json will be installed by running these scripts</p>
 <p>This module contains three files</p>
 <ol>
-  <li>script-object.js</li>
-  <li>script-array.js</li>
-  <li>package.json</li>
+  <li><a href="https://github.com/mani1998/Finoramic-Interview/blob/script-module/script-object.js">script-object.js</a></li>
+  <li><a href="https://github.com/mani1998/Finoramic-Interview/blob/script-module/script-array.js">script-array.js</a></li>
+  <li><a href="https://github.com/mani1998/Finoramic-Interview/blob/script-module/packages.json">packages.json</a></li>
 </ol>
 <h4>script-object</h4>
 <p>when the packages are in object format,this file can be used to install the dependencies</p>
